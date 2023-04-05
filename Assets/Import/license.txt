@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robert N Car Designer SPRUE Objects
+* source:	https://sketchfab.com/3d-models/robert-n-car-designer-sprue-objects-0e83345878804eb69ba064bed07766b6
+* author:	robby (https://sketchfab.com/robby48)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robert N Car Designer SPRUE Objects" (https://sketchfab.com/3d-models/robert-n-car-designer-sprue-objects-0e83345878804eb69ba064bed07766b6) by robby (https://sketchfab.com/robby48) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
